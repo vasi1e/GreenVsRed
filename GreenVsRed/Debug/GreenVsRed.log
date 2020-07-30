@@ -1,0 +1,6 @@
+﻿  Grid.cpp
+c:\users\mim40\desktop\programing\c++\greenvsred\greenvsred\convertoperator.h(12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+c:\users\mim40\desktop\programing\c++\greenvsred\greenvsred\convertoperator.h(12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GreenVsRed.vcxproj -> C:\Users\Mim40\Desktop\Programing\c++\GreenVsRed\Debug\GreenVsRed.exe
